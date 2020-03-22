@@ -55,3 +55,18 @@ Data Processing Utils
   Returns: array of file names (full path)
 
  ```
+
+##### [findStringByRegex](https://github.com/soujanno3dot0/Data-Processing/blob/a0da390d71bde0e4c55deb667e2a595c76083c7d/Utilities.py#L73)
+
+```
+  Desc: finds the text based on the regex pattern in the text
+
+  Args:
+     pattern(str): regular expression
+     text(str): text that contains the pattern      
+
+  Returns: text pattern if found, '' otherwise
+
+ ```
+ 
+</br>
