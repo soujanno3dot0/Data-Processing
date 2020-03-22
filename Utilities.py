@@ -91,7 +91,7 @@ def findStringByRegex(pattern, text):
 
 def splitString(separator, text):
     """
-    findStringByRegex() splits the text based on the separator passed as arg
+    splitString() splits the text based on the separator passed as arg
     
     Args:
         
