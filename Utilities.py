@@ -25,7 +25,7 @@ import pandas as pd
     
 def writeToCsv(msgList, packagePath, fileName):
     """
-    addToList():Exports Message List in to csv file. The function will create the file 
+    writeToCsv:Exports Message List in to csv file. The function will create the file 
                 if not already created
     
     Args: 
