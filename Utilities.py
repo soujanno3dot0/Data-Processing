@@ -49,7 +49,7 @@ def obtainValidFiles(packagePath, validFileList):
     
     Args: 
         packagePath(str): vaid location path
-        validFileList(lsit): valid File (Object) types
+        validFileList(list): valid File (Object) types
         
     Returns: array of file names (full path)
     
