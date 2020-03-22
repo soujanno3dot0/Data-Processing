@@ -45,7 +45,7 @@ import os
 
 def obtainValidFiles(packagePath, validFileList):
     """
-    obtainValidFiles(): Retrieves valid file list from the specified Folder path
+    obtainValidFiles(): Retrieves valid .xml file list from the specified Folder path
     
     Args: 
         packagePath(str): vaid location path
